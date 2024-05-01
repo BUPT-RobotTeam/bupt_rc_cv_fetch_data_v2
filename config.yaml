@@ -1,0 +1,2 @@
+video_save_folder: /home/bupt-rc/ros2_ws/bupt_rc_cv_ws/src/bupt_rc_cv_fetch_dataset_v2/video
+dataset_save_folder: /home/bupt-rc/ros2_ws/bupt_rc_cv_ws/src/bupt_rc_cv_fetch_dataset_v2/dataset
